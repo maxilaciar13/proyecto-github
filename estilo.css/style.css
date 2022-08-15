@@ -1,0 +1,55 @@
+body{
+    background-image: url(../img/plantilla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    padding: 50px 30px 20px 60px;
+    margin: 40px;
+    text-align: center;
+
+}
+header h1{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-decoration: underline;
+}
+header h2{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-decoration: underline;
+}
+header nav ul{
+    color: greenyellow;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: underline;
+    list-style: none;
+}
+header nav ul li a{
+    color: tomato;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+div{
+    text-align:right;
+}
+footer{
+    color: brown;
+}
+footer h3{
+    font-size: 20px;
+    text-decoration: solid;
+}
+footer h4{
+    font-size: 20px;
+    text-decoration: solid;
+}
